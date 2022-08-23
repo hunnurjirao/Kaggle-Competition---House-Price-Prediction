@@ -10,9 +10,8 @@ Common steps included in End-to-End Machine Learing Project:
 * Exploratory Data Analysis(EDA) 
 * Data Cleaning
 * Feature Scaling
-* Creating a Pipeline for Numeric and Categotical Valuse
 * Train Model
-* Fine Tune the Model
+* Fine Tune the Model (if necessary)
 * Deploy the model
 
 Author: [K HUNNURJI RAO](https://www.kaggle.com/khunnurjirao)
